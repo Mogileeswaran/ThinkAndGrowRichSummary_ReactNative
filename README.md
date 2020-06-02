@@ -16,3 +16,5 @@
 # ThinkAndGrowRichSummary_ReactNativeApp
 ![Screenshots 7](“https://github.com/Mogileeswaran/ThinkAndGrowRichSummary_ReactNativeApp/blob/master/Screenshots/Screenshot_20200601-202656.jpg”)
 
+
+<img src="./Screenshots/Screenshot_20200601-202646.jpg">
