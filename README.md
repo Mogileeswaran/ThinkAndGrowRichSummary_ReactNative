@@ -1,6 +1,6 @@
 # ThinkAndGrowRichSummary_ReactNativeApp
 # HOMESCREEN
-<img src="./Screenshots/Screenshot_20200601-202602.jpg" width="200" height="250">
+<img src="./Screenshots/Screenshot_20200601-202602.jpg" width="200" height="300">
 # table of contents
 <img src="./Screenshots/Screenshot_20200601-202610.jpg">
 # table of contents
