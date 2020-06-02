@@ -1,10 +1,8 @@
 # ThinkAndGrowRichSummary_ReactNativeApp
-# HOMESCREEN
-# table of contents
 # Screens
 
 
- <table style="width:100%">
+ <table >
   <tr>
     <th><img src="./Screenshots/Screenshot_20200601-202602.jpg" width="200" height="320">
 </th>
